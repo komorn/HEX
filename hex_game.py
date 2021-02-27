@@ -78,7 +78,7 @@ def hra_pocitac():
     for riadok in range(pocet_riadkov):
         for stlpec in range(pocet_stlpcov):
             if values[riadok][stlpec] == " ":
-                if hodnoty_B[riadok][stlpec][0] == 0 and hodnoty_B[riadok][stlpec][1] > 0:
+                if hodnoty_B[riadok][stlpec][0] == 0:
                     #pocitacu chyba jeden tah do dokoncenia spoja zhora dole, a zaroven tu ma moznost vytvorenia spoja
                     naj = [riadok, stlpec, hodnoty_B[riadok][stlpec][1], hodnoty_B[riadok][stlpec][0]]
                 else:        #ak pocitac nema v dosahu 1 tahu vyhru
