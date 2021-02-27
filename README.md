@@ -20,3 +20,5 @@ Vstup sa zadáva bez medzery - napr 1A, 4B, 6F... Počkáte kým počítač zahr
 Na spustenie a fungovanie programu niesú potrebné žiadne špeciálne balíčky.
 
 Veľa šťastia pri hraní! :)
+
+-----Natália Komorníková-----
