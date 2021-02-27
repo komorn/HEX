@@ -17,6 +17,8 @@ Program sa celý ovláda zadávaním vstupu do príkazového riadku. Berie vstup
 ktoré určujú súradnice v políčka v hracom poli - teda číslo 1 - 6 a písmeno A-F.
 Vstup sa zadáva bez medzery - napr 1A, 4B, 6F... Počkáte kým počítač zahrá svoj ťah a program si od Vás znova vypýta vstup.
 
+Po dohraní hry môžete hrať znova, ak stlačíte 0 a následne ENTER.
+
 Na spustenie a fungovanie programu niesú potrebné žiadne špeciálne balíčky.
 
 Veľa šťastia pri hraní! :)
